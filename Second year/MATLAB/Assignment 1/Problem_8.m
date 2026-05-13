@@ -1,0 +1,6 @@
+% Print the following pattern: 
+%            * 
+%         *  *  * 
+%      *  *  *  *  * 
+%   *  *  *  *  *  *  * 
+% *  *  *  *  *  *  *  *  * 

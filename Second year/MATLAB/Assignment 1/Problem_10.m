@@ -1,0 +1,1 @@
+% Write a program to reverse a number using a while loop. 

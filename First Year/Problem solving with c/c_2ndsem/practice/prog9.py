@@ -1,0 +1,10 @@
+import numpy as np
+a= list(map(int,input("Enter the number:").split()))
+mat=np.array(a)
+# print(mat)
+# mat2=mat.reshape(2,3)
+# print(mat2)
+# b=list(map(int,input("Enter the number:").split()))
+# mat3=np.array(b)
+# print(np.multiply(mat,mat3))
+print(mat.size)
