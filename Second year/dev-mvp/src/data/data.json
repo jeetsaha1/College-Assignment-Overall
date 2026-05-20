@@ -1,0 +1,197 @@
+{
+  "developers": [
+  {
+    "developer_id": "DEV-001",
+    "developer_name": "Ava Chen"
+  },
+  {
+    "developer_id": "DEV-002",
+    "developer_name": "Noah Patel"
+  },
+  {
+    "developer_id": "DEV-003",
+    "developer_name": "Mia Lopez"
+  },
+  {
+    "developer_id": "DEV-004",
+    "developer_name": "Lucas Reed"
+  },
+  {
+    "developer_id": "DEV-005",
+    "developer_name": "Emma Roy"
+  },
+  {
+    "developer_id": "DEV-006",
+    "developer_name": "Ishan Mehta"
+  },
+  {
+    "developer_id": "DEV-007",
+    "developer_name": "Owen Brooks"
+  },
+  {
+    "developer_id": "DEV-008",
+    "developer_name": "Zara Khan"
+  }
+],
+  
+
+
+ "issues": [
+  { "developer_id": "DEV-001", "cycle_time_days": 4.2 },
+  { "developer_id": "DEV-001", "cycle_time_days": 3.7 },
+  { "developer_id": "DEV-001", "cycle_time_days": 3.9 },
+  { "developer_id": "DEV-001", "cycle_time_days": 3.9 },
+
+  { "developer_id": "DEV-002", "cycle_time_days": 4.7 },
+  { "developer_id": "DEV-002", "cycle_time_days": 7.1 },
+  { "developer_id": "DEV-002", "cycle_time_days": 5.4 },
+  { "developer_id": "DEV-002", "cycle_time_days": 5.4 },
+
+  { "developer_id": "DEV-006", "cycle_time_days": 4.7 },
+  { "developer_id": "DEV-006", "cycle_time_days": 2.8 },
+  { "developer_id": "DEV-006", "cycle_time_days": 4.0 },
+  { "developer_id": "DEV-006", "cycle_time_days": 3.4 },
+
+  { "developer_id": "DEV-003", "cycle_time_days": 3.6 },
+  { "developer_id": "DEV-003", "cycle_time_days": 4.5 },
+  { "developer_id": "DEV-003", "cycle_time_days": 2.3 },
+  { "developer_id": "DEV-003", "cycle_time_days": 3.8 },
+
+  { "developer_id": "DEV-004", "cycle_time_days": 4.2 },
+  { "developer_id": "DEV-004", "cycle_time_days": 3.5 },
+  { "developer_id": "DEV-004", "cycle_time_days": 2.4 },
+  { "developer_id": "DEV-004", "cycle_time_days": 4.7 },
+
+  { "developer_id": "DEV-008", "cycle_time_days": 4.3 },
+  { "developer_id": "DEV-008", "cycle_time_days": 3.3 },
+  { "developer_id": "DEV-008", "cycle_time_days": 4.9 },
+  { "developer_id": "DEV-008", "cycle_time_days": 2.8 },
+
+  { "developer_id": "DEV-005", "cycle_time_days": 5.3 },
+  { "developer_id": "DEV-005", "cycle_time_days": 6.6 },
+  { "developer_id": "DEV-005", "cycle_time_days": 5.8 },
+  { "developer_id": "DEV-005", "cycle_time_days": 7.2 },
+
+  { "developer_id": "DEV-007", "cycle_time_days": 4.7 },
+  { "developer_id": "DEV-007", "cycle_time_days": 4.4 },
+  { "developer_id": "DEV-007", "cycle_time_days": 4.5 },
+  { "developer_id": "DEV-007", "cycle_time_days": 5.1 }
+],
+
+
+
+ "prs": [
+  { "developer_id": "DEV-001", "review_wait_hours": 10.5, "merge_time_hours": 34.5, "review_rounds": 3 },
+  { "developer_id": "DEV-001", "review_wait_hours": 8.2, "merge_time_hours": 28.1, "review_rounds": 2 },
+  { "developer_id": "DEV-001", "review_wait_hours": 12.4, "merge_time_hours": 40.3, "review_rounds": 3 },
+  { "developer_id": "DEV-001", "review_wait_hours": 9.1, "merge_time_hours": 30.2, "review_rounds": 2 },
+
+  { "developer_id": "DEV-002", "review_wait_hours": 18.5, "merge_time_hours": 50.2, "review_rounds": 4 },
+  { "developer_id": "DEV-002", "review_wait_hours": 22.1, "merge_time_hours": 60.5, "review_rounds": 5 },
+  { "developer_id": "DEV-002", "review_wait_hours": 16.3, "merge_time_hours": 48.7, "review_rounds": 3 },
+  { "developer_id": "DEV-002", "review_wait_hours": 19.4, "merge_time_hours": 55.2, "review_rounds": 4 },
+
+  { "developer_id": "DEV-006", "review_wait_hours": 6.2, "merge_time_hours": 20.5, "review_rounds": 2 },
+  { "developer_id": "DEV-006", "review_wait_hours": 7.8, "merge_time_hours": 22.1, "review_rounds": 2 },
+  { "developer_id": "DEV-006", "review_wait_hours": 5.9, "merge_time_hours": 18.4, "review_rounds": 1 },
+  { "developer_id": "DEV-006", "review_wait_hours": 6.5, "merge_time_hours": 19.7, "review_rounds": 2 },
+
+  { "developer_id": "DEV-003", "review_wait_hours": 11.3, "merge_time_hours": 32.8, "review_rounds": 3 },
+  { "developer_id": "DEV-003", "review_wait_hours": 13.5, "merge_time_hours": 35.2, "review_rounds": 3 },
+  { "developer_id": "DEV-003", "review_wait_hours": 9.7, "merge_time_hours": 28.6, "review_rounds": 2 },
+  { "developer_id": "DEV-003", "review_wait_hours": 10.8, "merge_time_hours": 30.4, "review_rounds": 3 },
+
+  { "developer_id": "DEV-004", "review_wait_hours": 14.2, "merge_time_hours": 38.7, "review_rounds": 3 },
+  { "developer_id": "DEV-004", "review_wait_hours": 12.6, "merge_time_hours": 34.5, "review_rounds": 2 },
+  { "developer_id": "DEV-004", "review_wait_hours": 10.3, "merge_time_hours": 29.8, "review_rounds": 2 },
+  { "developer_id": "DEV-004", "review_wait_hours": 13.1, "merge_time_hours": 36.2, "review_rounds": 3 },
+
+  { "developer_id": "DEV-008", "review_wait_hours": 9.4, "merge_time_hours": 27.3, "review_rounds": 2 },
+  { "developer_id": "DEV-008", "review_wait_hours": 8.6, "merge_time_hours": 25.8, "review_rounds": 2 },
+  { "developer_id": "DEV-008", "review_wait_hours": 11.2, "merge_time_hours": 31.5, "review_rounds": 3 },
+  { "developer_id": "DEV-008", "review_wait_hours": 7.9, "merge_time_hours": 24.1, "review_rounds": 2 },
+
+  { "developer_id": "DEV-005", "review_wait_hours": 20.5, "merge_time_hours": 60.3, "review_rounds": 4 },
+  { "developer_id": "DEV-005", "review_wait_hours": 22.7, "merge_time_hours": 65.8, "review_rounds": 5 },
+  { "developer_id": "DEV-005", "review_wait_hours": 18.9, "merge_time_hours": 58.2, "review_rounds": 4 },
+  { "developer_id": "DEV-005", "review_wait_hours": 21.3, "merge_time_hours": 62.5, "review_rounds": 5 },
+
+  { "developer_id": "DEV-007", "review_wait_hours": 12.5, "merge_time_hours": 33.7, "review_rounds": 3 },
+  { "developer_id": "DEV-007", "review_wait_hours": 11.9, "merge_time_hours": 31.4, "review_rounds": 2 },
+  { "developer_id": "DEV-007", "review_wait_hours": 13.2, "merge_time_hours": 35.6, "review_rounds": 3 },
+  { "developer_id": "DEV-007", "review_wait_hours": 14.0, "merge_time_hours": 37.1, "review_rounds": 3 }
+],
+
+"deployments": [
+  { "developer_id": "DEV-001", "status": "success", "lead_time_days": 2.9 },
+  { "developer_id": "DEV-001", "status": "success", "lead_time_days": 2.3 },
+  { "developer_id": "DEV-001", "status": "success", "lead_time_days": 2.7 },
+  { "developer_id": "DEV-001", "status": "success", "lead_time_days": 2.5 },
+
+  { "developer_id": "DEV-002", "status": "success", "lead_time_days": 4.5 },
+  { "developer_id": "DEV-002", "status": "success", "lead_time_days": 5.2 },
+  { "developer_id": "DEV-002", "status": "success", "lead_time_days": 4.8 },
+  { "developer_id": "DEV-002", "status": "success", "lead_time_days": 5.0 },
+
+  { "developer_id": "DEV-006", "status": "success", "lead_time_days": 2.1 },
+  { "developer_id": "DEV-006", "status": "success", "lead_time_days": 2.4 },
+  { "developer_id": "DEV-006", "status": "success", "lead_time_days": 2.0 },
+  { "developer_id": "DEV-006", "status": "success", "lead_time_days": 2.2 },
+
+  { "developer_id": "DEV-003", "status": "success", "lead_time_days": 3.2 },
+  { "developer_id": "DEV-003", "status": "success", "lead_time_days": 3.5 },
+  { "developer_id": "DEV-003", "status": "success", "lead_time_days": 3.0 },
+  { "developer_id": "DEV-003", "status": "success", "lead_time_days": 3.3 },
+
+  { "developer_id": "DEV-004", "status": "success", "lead_time_days": 3.8 },
+  { "developer_id": "DEV-004", "status": "success", "lead_time_days": 3.2 },
+  { "developer_id": "DEV-004", "status": "success", "lead_time_days": 2.9 },
+  { "developer_id": "DEV-004", "status": "success", "lead_time_days": 3.5 },
+
+  { "developer_id": "DEV-008", "status": "success", "lead_time_days": 2.6 },
+  { "developer_id": "DEV-008", "status": "success", "lead_time_days": 2.8 },
+  { "developer_id": "DEV-008", "status": "success", "lead_time_days": 3.1 },
+  { "developer_id": "DEV-008", "status": "success", "lead_time_days": 2.7 },
+
+  { "developer_id": "DEV-005", "status": "success", "lead_time_days": 5.5 },
+  { "developer_id": "DEV-005", "status": "success", "lead_time_days": 6.0 },
+  { "developer_id": "DEV-005", "status": "success", "lead_time_days": 5.8 },
+  { "developer_id": "DEV-005", "status": "success", "lead_time_days": 6.2 },
+
+  { "developer_id": "DEV-007", "status": "success", "lead_time_days": 3.4 },
+  { "developer_id": "DEV-007", "status": "success", "lead_time_days": 3.1 },
+  { "developer_id": "DEV-007", "status": "success", "lead_time_days": 3.6 },
+  { "developer_id": "DEV-007", "status": "success", "lead_time_days": 3.3 }
+],
+
+
+
+
+  "bugs": [
+  { "developer_id": "DEV-001", "escaped_to_prod": "No" },
+  { "developer_id": "DEV-001", "escaped_to_prod": "No" },
+
+  { "developer_id": "DEV-002", "escaped_to_prod": "Yes" },
+  { "developer_id": "DEV-002", "escaped_to_prod": "Yes" },
+  { "developer_id": "DEV-002", "escaped_to_prod": "No" },
+
+  { "developer_id": "DEV-006", "escaped_to_prod": "No" },
+  { "developer_id": "DEV-006", "escaped_to_prod": "No" },
+
+  { "developer_id": "DEV-003", "escaped_to_prod": "No" },
+  { "developer_id": "DEV-003", "escaped_to_prod": "Yes" },
+
+  { "developer_id": "DEV-004", "escaped_to_prod": "No" },
+  { "developer_id": "DEV-004", "escaped_to_prod": "No" },
+
+  { "developer_id": "DEV-008", "escaped_to_prod": "No" },
+  { "developer_id": "DEV-008", "escaped_to_prod": "No" },
+
+  { "developer_id": "DEV-005", "escaped_to_prod": "Yes" },
+  { "developer_id": "DEV-005", "escaped_to_prod": "Yes" },
+  { "developer_id": "DEV-005", "escaped_to_prod": "Yes" },
+
+  { "developer_id": "DEV-007", "escaped_to_prod": "No" },
+  { "developer_id": "DEV-007", "escaped_to_prod": "Yes" }
+]
+}
